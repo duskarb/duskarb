@@ -14,5 +14,6 @@
 
 - **[f(g)=ma](https://github.com/duskarb/fgma)** - a graphic instrument that turns text into mass and composition into a field of force ([live demo](https://fgma-sage.vercel.app/))
 - **[NodePrompt](https://github.com/duskarb/nodeprompt)** - a node-based interface for turning linear prompts into editable graphs of concepts and relationships
-- **[Daejeon Timemap](https://github.com/duskarb/timemap)** - a map of Daejeon drawn by public-transit travel time instead of distance, comparing before and after the tram (GTFS + R5)
 - **[savveb](https://github.com/duskarb/savveb)** - a command-line tool that saves a whole website into one `.wacz` file and replays it in any browser ([demo](https://duskarb.github.io/savveb/?source=demo/yeonamkyu.com.wacz&url=https%3A%2F%2Fwww.yeonamkyu.com%2Fworks&title=yeonamkyu.com))
+- **[Daejeon Timemap](https://github.com/duskarb/timemap)** - a map of Daejeon drawn by public-transit travel time instead of distance, comparing before and after the tram (GTFS + R5)
+
