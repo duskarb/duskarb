@@ -3,7 +3,7 @@
 # Namkyu Yeo · 여남규
 
 **Designer / Media Artist & Developer** working between **technology, interaction, and human experience**.
-**KAIST 산업디자인학과 학부생 (2028.02 졸업예정). 텍스트, 지도, 프롬프트를 재료로 그래픽 도구와 AI 인터페이스를 만든다.**
+**KAIST 산업디자인학과 학부생. 텍스트, 지도, 프롬프트를 재료로 그래픽 도구와 AI 인터페이스를 만든다.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yeonamkyu.com-111111?style=flat-square)](https://www.yeonamkyu.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@duskarb-111111?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/duskarb)
